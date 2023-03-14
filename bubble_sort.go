@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	nums := []int{16, 1, 0, 9, 10}
+	nums := []int{8, 3, 2, 11, 25, 18, 1}
 	bubbleSort1(nums)
 	bubbleSort2(nums)
 }
